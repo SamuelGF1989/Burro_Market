@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053844366840",
+    "project_id": "burromarket20",
+    "storage_bucket": "burromarket20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053844366840:android:b0e7a4af4b27fbc14c620d",
+        "android_client_info": {
+          "package_name": "com.example.burromarket20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053844366840-3rvibvigihech2rb9o8kljvo1lmm4p64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.burromarket20",
+            "certificate_hash": "eb1021b0b72585ee97a40e81b175dee2df93246d"
+          }
+        },
+        {
+          "client_id": "1053844366840-165unakfdh9pbtlh6h79qg9nvacts4e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzhtiThPKz6H2LWB95Scr6At_l74Temw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053844366840-165unakfdh9pbtlh6h79qg9nvacts4e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
